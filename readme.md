@@ -35,6 +35,24 @@ The dataset includes transaction type, amount, sender and receiver balances, fra
 
 The original dataset is not included in this repository because of its large file size.
 
+## Dashboard Screenshots
+
+### 1. Dashboard Overview
+![Dashboard Overview](screenshots/01-dashboard-overview.png)
+
+### 2. Transaction Distribution and Average Amount
+![Transaction Distribution](screenshots/02-transaction-distribution.png)
+
+### 3. Fraud Rate by Transaction Type
+![Fraud Rate by Transaction Type](screenshots/03-fraud-rate-by-type.png)
+
+### 4. High-Value vs Other Transactions
+![High-Value Analysis](screenshots/04-high-value-analysis.png)
+
+### 5. Key Insights
+![Key Insights](screenshots/05-key-insights.png)
+
+
 ## Key Findings
 
 - The dataset contains 6,362,620 transactions.
